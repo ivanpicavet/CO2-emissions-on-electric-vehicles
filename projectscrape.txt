@@ -1,0 +1,14 @@
+project kick off
+fetching data from internet
+gain interesting 
+find dataset from scrape or API. dont necessarily go to kaggle
+presenting a product. pick a problem and solve it. dataset is just a fucntion from the problem u solve
+thinking about: money, life improvement, get value for someone.can not be an analyzis. something that can be used. 
+list of api in the list of resources part of the project. 
+
+
+
+brainstorming:crypto, sports, twitter 
+
+1.for food product, identifying the dangerous ambigous elements in them and that products are queriable for those particular datas. can also be allergenic like gluten 
+2.
